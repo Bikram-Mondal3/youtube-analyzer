@@ -1,0 +1,5 @@
+groq 
+youtube_transcript_api 
+agno
+streamlit
+dotenv
